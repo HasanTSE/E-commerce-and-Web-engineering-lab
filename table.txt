@@ -1,0 +1,11 @@
+table: product_info
+
+id
+product_name
+product_category
+brand
+product_price
+product_availability
+image
+status
+
